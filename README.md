@@ -1,5 +1,14 @@
 # .NET-Mini-Projects
 
+# PHILOSOPHY
+My vision on code is that it should be written for humans, not for computers. This implies that code should be easy to read and easy to maintain. 
+These base principles should not be violated once complexity of the code increases. 
+I believe there is no 'perfect' code, it's always an elegant balance between simplicity, clarity, functionality, reusability, efficiency and coding- and runtime speed. 
+Where thinking out of the box (creativity) is a great skill for a developer, it should not be mistaken with the diligence to stick the conventions (OOP, Naming, etc.) to not reduce interoperability with other developers
+As the IT space is undergoing continuous (exponential) growth, I believe one of the most important skills is to be open minded towards new things and learn how to adapt and learn new things quickly.
+Theorizing is great, however nothing beats practice in actualizing your potential, coding is no exception.
+With practice comes error, on the journey to mastery this requires a great deal of patience and persistence empowered by a strong determination.
+
 # NOTES
 - Non-production code
 - Raw initial code
