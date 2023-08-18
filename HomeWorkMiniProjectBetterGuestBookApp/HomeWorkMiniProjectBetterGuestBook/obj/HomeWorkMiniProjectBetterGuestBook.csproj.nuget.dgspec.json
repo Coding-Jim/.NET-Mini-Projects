@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\HomeWorkMiniProjectBetterGuestBook\\HomeWorkMiniProjectBetterGuestBook.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\GuestBookLibrary\\GuestBookLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\GuestBookLibrary\\GuestBookLibrary.csproj",
+        "projectName": "GuestBookLibrary",
+        "projectPath": "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\GuestBookLibrary\\GuestBookLibrary.csproj",
+        "packagesPath": "C:\\Users\\BlackBull\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\GuestBookLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BlackBull\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\HomeWorkMiniProjectBetterGuestBook\\HomeWorkMiniProjectBetterGuestBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\HomeWorkMiniProjectBetterGuestBook\\HomeWorkMiniProjectBetterGuestBook.csproj",
+        "projectName": "HomeWorkMiniProjectBetterGuestBook",
+        "projectPath": "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\HomeWorkMiniProjectBetterGuestBook\\HomeWorkMiniProjectBetterGuestBook.csproj",
+        "packagesPath": "C:\\Users\\BlackBull\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\HomeWorkMiniProjectBetterGuestBook\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BlackBull\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\GuestBookLibrary\\GuestBookLibrary.csproj": {
+                "projectPath": "C:\\Dev\\CSMasterCourseTimCorey\\HomeWorkMiniProjectBetterGuestBookApp\\GuestBookLibrary\\GuestBookLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

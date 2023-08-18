@@ -1,0 +1,12 @@
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\bin\Debug\net7.0\GuestBookLibrary.deps.json
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\bin\Debug\net7.0\GuestBookLibrary.dll
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\bin\Debug\net7.0\GuestBookLibrary.pdb
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\GuestBookLibrary.csproj.AssemblyReference.cache
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\GuestBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\GuestBookLibrary.AssemblyInfoInputs.cache
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\GuestBookLibrary.AssemblyInfo.cs
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\GuestBookLibrary.dll
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\refint\GuestBookLibrary.dll
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\GuestBookLibrary.pdb
+C:\Dev\CSMasterCourseTimCorey\HomeWorkMiniProjectBetterGuestBookApp\GuestBookLibrary\obj\Debug\net7.0\ref\GuestBookLibrary.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HomeWorkMiniProjectBetterGuestBook/1.0.0": {
+        "dependencies": {
+          "GuestBookLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HomeWorkMiniProjectBetterGuestBook.dll": {}
+        }
+      },
+      "GuestBookLibrary/1.0.0": {
+        "runtime": {
+          "GuestBookLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWorkMiniProjectBetterGuestBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuestBookLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
